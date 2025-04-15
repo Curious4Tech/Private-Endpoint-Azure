@@ -1,4 +1,4 @@
-## **How to Create a Private Endpoint in Azure: A Step-by-Step Guide  **
+## How to Create a Private Endpoint in Azure: A Step-by-Step Guide 
 
 ---
 
